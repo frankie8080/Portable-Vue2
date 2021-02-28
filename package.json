@@ -12,6 +12,7 @@
     "core-js": "^3.6.5",
     "jquery": "^3.5.1",
     "nprogress": "^0.2.0",
+    "path": "^0.12.7",
     "sass": "^1.26.10",
     "sass-resources-loader": "^2.1.0",
     "vue": "^2.6.11",

@@ -1,13 +1,16 @@
 <template>
-    <div id="home">
-        this is home page
-    </div>
+	<div id="home">
+		<SvgIcon icon="#icon-icon-test70"></SvgIcon>
+	</div>
 </template>
 <script>
+/*eslint-disable*/
+import SvgIcon from "../components/SvgIcon"
 export default {
-    name: "Home"
-}
+	name: "Home",
+    components: {
+        SvgIcon
+    }
+};
 </script>
-<style lang='scss' scoped>
-
-</style>
+<style lang="scss" scoped></style>
