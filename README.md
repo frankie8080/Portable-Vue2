@@ -1,4 +1,4 @@
-## product description：
+## Product description：
 
 > This is a template file based on Vue 2.0
 
