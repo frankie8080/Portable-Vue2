@@ -17,4 +17,5 @@
 v-router 自动导入`views`目录下的页面
 
 预制了axios\websocket\eventbus
+预制了 svg-icon 组件
 
