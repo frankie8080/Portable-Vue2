@@ -16,7 +16,7 @@ This project uses modularity to organize `Vuex`，If you need the new store modu
 
 ### 2. Vue-router
 
-This project uses modularity to organize `Vu-router`, If you need to create a new Page in the views folder, the program will load the file automatically and you can access it directly from your route. 
+This project uses modularity to organize `Vue-router`, If you need to create a new Page in the views folder, the program will load the file automatically and you can access it directly from your route. 
 
 * the name of the route depends on the name attribute of your page component
 
