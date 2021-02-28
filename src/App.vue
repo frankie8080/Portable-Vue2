@@ -1,8 +1,3 @@
-<!--
- * @description: 
- * @author: 肛肠科冯主任
- * @Date: 2020-08-27 16:36:56
--->
 <template>
   <div id="app">
     <router-view />

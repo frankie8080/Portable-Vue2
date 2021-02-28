@@ -9,7 +9,7 @@ import path from 'path'
 Vue.use(Vuex)
 
 //自动导入
-const contexts = require.context('./', true, /\.js$/);
+const contexts = require.context('./', true, /index.js$/);
 let modules = {}
 contexts.keys().forEach(key => {
   const dirname = path.dirname(key)
