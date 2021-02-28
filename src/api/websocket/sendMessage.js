@@ -7,12 +7,3 @@ export const sendMessage = (socket, message, callback) => {
     // socket.send(JSON.stringify(message))
 }
 
-export const onmessageWS = (e) => {
-    // const data = JSON.parse(e.data)
-    // const callback = map.get(data.requestId) 
-    // callback && callback(data)
-    // if (data.type === "groupMessage"){
-        //新消息
-        // store.dispatch("addToMessageList", data.content)
-    // }
-}
