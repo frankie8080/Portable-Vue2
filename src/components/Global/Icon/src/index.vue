@@ -7,8 +7,7 @@
     </svg>
 </template>
 <script>
-    const contexts = require.context("@/assets/iconfont", true, /iconfont.js$/);
-    contexts.keys().forEach(key => contexts(key));
+ 
     export default {
         name: "icon",
         props: {
