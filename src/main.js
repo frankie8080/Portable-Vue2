@@ -6,8 +6,9 @@ import store from '@/store'
 import Base from '@/components/Base'
 import Custom from '@/components/Custom'
 import The from '@/components/The'
-import demo from "./utils/my-lib"
-console.log(demo);
+// import ElementUI from 'element-ui';
+// import 'element-ui/lib/theme-chalk/index.css';
+// Vue.use(ElementUI);
 Vue.use(Base).use(Custom).use(The)
 Vue.config.productionTip = false
 new Vue({
